@@ -1,0 +1,2 @@
+a = "cowellasia"
+print("Reverse is", a[::-1])
